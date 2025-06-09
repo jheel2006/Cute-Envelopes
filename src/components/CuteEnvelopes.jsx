@@ -117,7 +117,7 @@ export default function CuteEnvelopes() {
                                 >
 
                                     {/* Envelope Body */}
-                                    <div className={`w-full h-40 bg-gradient-to-br ${envelope.color} rounded-lg shadow-lg relative overflow-hidden`}>
+                                    <div className={`w-full h-[185px] bg-gradient-to-br ${envelope.color} rounded-lg shadow-lg relative overflow-hidden`}>
 
                                         {/* Envelope Flap */}
                                         <div className={`absolute top-0 left-0 w-full h-16 bg-gradient-to-br ${envelope.color} transform origin-top transition-transform duration-700 ${isOpen ? 'rotate-180 translate-y-2' : ''
