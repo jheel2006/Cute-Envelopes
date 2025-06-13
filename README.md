@@ -1,12 +1,24 @@
-# React + Vite
+# 💌 Cute Envelopes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A little page with four colourful envelopes you can click to reveal surprise messages :)
 
-Currently, two official plugins are available:
+[View it live](https://cute-envelopes.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Clickable envelopes with cute animations  
+- Floating emoji confetti when opened  
+- Calming gradient background  
+- Final message once you’ve opened them all  
+- Fully responsive, works on desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- Tailwind CSS
+- Lucide React Icons
+
+## Why I Made This
+
+I just wanted to build something small, simple, and nice to look at. I’d been thinking about how little things—like a kind message or a fun animation—can actually make your day a bit better. So this page is kind of like a digital pick-me-up for anyone who stumbles across it (or for myself when I need a break).
+
